@@ -18,7 +18,7 @@ Requirements
  Installation
 
     1.	Clone this repository:
-         git clone https://github.com/yourusername/AI_Virtual_Painter.git
+         git clone https://github.com/Shivesh-22/AI_Virtual_Painter.git
          cd AI_Virtual_Painter
 
     2.	Install required libraries:
